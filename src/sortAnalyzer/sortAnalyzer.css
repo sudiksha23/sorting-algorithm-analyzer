@@ -1,0 +1,24 @@
+.array-container {
+    position: sticky;
+    padding-top: 5px;
+    left: 73px;
+    /* top: 100px; */
+  }
+  
+  .array-bar {
+    
+    width: 5px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+  
+  .separator {
+    width: 3px;
+    height: 45px;
+    background-color: grey;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+  }
+  
+  
